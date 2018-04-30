@@ -20,3 +20,7 @@ custom / viewcode.php
 
 These are the core components of the file, along with a php file in the root folder which the scanner app has to communicate with.
 The app is responsible for decoding the qr code, and querying the database to see if the ticket is valid for entry.
+
+This project was made for a client, who has unfortunately gone a different direction with the launch of his website.
+
+If you would like to implement this type of OpenCart, please contact me and I will be glad to help you out :)
