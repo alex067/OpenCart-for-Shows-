@@ -24,13 +24,13 @@ class ControllerCheckoutSuccess extends Controller
 
 		$mail = new PHPMailer; 
 		$mail->isSMTP(); //set mailer to SMTP 
-		$mail->Host ='focus-oc.com';
+		$mail->Host ='';
 		$mail->SMTPAuth = true;
-		$mail->Username = 'focus_ticketing@focus-oc.com';
-		$mail->Password = '#A1992Bar!';
+		$mail->Username = '';
+		$mail->Password = '';
 		$mail->SMTPSecure = 'ssl';
 		$mail->Port = 465;
-		$mail->setFrom('focus_ticketing@focus-oc.com', 'Focus OC');
+		$mail->setFrom('');
 		$mail->addAddress($userEmail);
 		$mail->isHTML(true);
 
