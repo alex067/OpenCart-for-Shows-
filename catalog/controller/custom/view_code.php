@@ -30,8 +30,8 @@ class ControllerCustomViewCode extends Controller
 			<body>
 				<div class="header">
 					<div class="address">
-						<h2><?php echo"The Circle OC";?></h2>
-						<p id="address_info"><?php echo"<i>8901 Warner Ave,</i>"."<br>"."<i>Huntington Beach,</i>"."<br>"."<i>CA 92647</i><br><i>(714) 375-1961</i>";?></p>
+						<h2><?php echo"The Test Venue";?></h2>
+						<p id="address_info"><?php echo"<i>1234 Test Address,</i>"."<br>"."<i>Test City,</i>"."<br>"."<i>CA 1234</i><br><i>(714) 375-1961</i>";?></p>
 					</div>
 					<div class="fontlogo cf">
 						<div class="fontlogo-item">
