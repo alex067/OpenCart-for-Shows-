@@ -1,5 +1,5 @@
 # OpenCart-for-Shows-
-## OpenCart Mod. for digital tickets & QR Codes. 
+## OpenCart V3 Mod. for digital tickets & QR Codes. 
  
 eCommerce store which sells online tickets, and each tickets comes with a unique QR code. The QR code is then scanned at the day/night of the event, using a simple android app which decodes the QR code.
 There is no physical products, after each successful purchase, a QR code is generated and linked to the ticket and the customer.
