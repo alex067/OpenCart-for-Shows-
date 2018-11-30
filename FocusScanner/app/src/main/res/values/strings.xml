@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FocusScanner</string>
+    <string name="focus">Focus OC</string>
+    <string name="scanner">Scan Now</string>
+</resources>
